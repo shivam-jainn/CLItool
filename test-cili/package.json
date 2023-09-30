@@ -1,0 +1,16 @@
+{
+  "name": "test-cili",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "tool": {
+    "port": 9999
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
